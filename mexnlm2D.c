@@ -1,8 +1,5 @@
 /* -------------------------------------------------------
 /* Matlab C/mex routine for 2D Non Local Means filtering 
-/* Philippe Steeghs                                       
-/* First working version 13 March 2008                    
-/* input parameters: 
 /*  
 /* t:	radius of the search window                       
 /* f:	radius of the averaging window 
